@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# DSCI-100-009-14-Project-Individual Planning Report - Anas Akbar
+This repository contains my individual Planning Report for the Data Science project. The purpose of this stage is to explore the Minecraft gameplay dataset, understand its structure, identify potential issues, and propose a predictive question based on a chosen broader question and then create effective visualizations to form a solid plan.
